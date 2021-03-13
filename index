@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        
+        <script src="" async defer></script>
+    </body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css?v=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+Hello World!
+<p>Este es el indice dentro
+del repositorio de GitHub, iniciando
+con un dibujo urbano llamado...</p> 
+
+<br>
+<img src="https://pro2-bar-s3-cdn-cf1.myportfolio.com/c1bb94039bfd4591b9bcca814f070f9f/9d533bcc-a4f9-4333-af9e-b423feccb2c2_rw_1920.jpg?h=1982ab129395199f0984fd27f0210600"
+            style="width: 1000px; width: 300px" alt="">
+
+<h2>Atelier AR Calzada de Tlalpan</h1>
+
+<p>Aquí comparto el primer post...</p>
+
+<p>The Line NEOM</p>
+
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=TtSMz-_h_cw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>Video del nuev o proyecto de urbanismo de Arabia Saudita cuasando revuelo en el mundo,</p>
+<p>Tendras que accesar a otra rama de esta página...GOOD LUCK!</p>
+
+
+<p>Esta pagina es dinamica</p>
+<p>Esta colocada dentro de un solo servidor</p>
+
+<h2>¿Que es HTML5</h2>
+<p>Un lenguaje que permite estructurar información hecha contenido de una página web</p>
+<p>HyperText Markup Language.</p>
+
+Para esta página se hicieron los siguientes pasos;
+
+
+
+</body>
