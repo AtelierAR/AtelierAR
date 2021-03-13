@@ -1,6 +1,6 @@
-@Atelier Armando Roman
-Arquitectura, Diseño & Programación 
-atelier.aroman@gmail.com
+- @Atelier Armando Roman
+- Arquitectura, Diseño & Programación 
+- atelier.aroman@gmail.com
 
 <!---
 AtelierAR/AtelierAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
