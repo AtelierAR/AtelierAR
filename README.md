@@ -1,7 +1,7 @@
 <h1> AR_MAFD_html
 <br>
 <h3>
-@Atelier Armando Roman
+@AtelierAR = Armando Roman
 <br>
 Arquitectura, Diseño & Programación 
 <br>
