@@ -9,11 +9,10 @@
 </head>
 <body>
     <section></section>
-<h1>FirstPage</h1>
+<h1>Página Estática MAFD</h1>
 <h2>Generar estructura básica</h2>
-<h3>Avance</h3>
-<h4>Header4</h4>
-<p>asi se puede</p>
+
+<h4>Ejercicio Html</h4>
 <br>
 
 Esta es una ruta de URL (Internet)
@@ -25,11 +24,6 @@ Esta es una ruta de URL (Internet)
 Ruta Relativa
 
 <center><img src="Image/mod3.jpg" alt="Modular"></center>
-<br>
-        <video width="320" height="240" controls>
-          <source src="movie.mp4" type="video/mp4" />
-          Your browser does not support the video tag.
-        </video>
      
         <br>
         <iframe
